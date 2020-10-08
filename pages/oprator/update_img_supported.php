@@ -1,0 +1,38 @@
+<?php
+			include '../../conn/db_supported.php';
+			include 'nav.php';
+$db = new database();
+$id=$_GET['id'];
+if(! is_null($id))
+{
+	$data = $db->edit($id);
+}
+else
+{
+	header('location:article.php');
+}
+?>
+
+	
+		<h2 style="text-align: center;">Update Foto Supported</h2>
+		<div class="container-fluid col-md-6 col-md-offset-3">
+		<form action="../../system/prosesSupported.php?aksi=updatefoto" method="post" enctype="multipart/form-data">
+			<?php foreach ($db->edit($_GET['id']) as $d){
+			 ?>
+			<div class="form-group">
+				<input type="hidden" class="form-control"  name="id" value="<?php echo $d['id_brand']; ?>">
+				<input type="hidden" class="form-control"  name="foto_lama" value="<?php echo $d['img_bran']; ?>">
+				
+				<label>Nama Member :</label>
+				<input class="form-control" type="text"  name="nama" value="<?php echo $d['nama_brand']; ?>" placeholder="Readonly input here…" readonly>
+			</div>	
+				<div class="form-group">
+				<label>Foto Baru :</label>
+				<input type="file" name="foto" required="required">
+				<p style="color: red">Ekstensi yang diperbolehkan .png | .jpg | .jpeg | .gif</p>
+			</div>	
+			<input type="submit" name="" value="Simpan" class="btn btn-primary">
+		</form>
+		</div>
+	
+<?php } ?>

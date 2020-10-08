@@ -1,0 +1,388 @@
+[28-Sep-2020 14:21:42 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 14:21:42 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 14:56:28 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 14:56:28 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 14:58:24 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 14:58:24 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 15:32:30 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 15:32:30 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 20:42:48 Asia/Jakarta] PHP Warning:  unlink(../img/home/773400216_ikgei[1].png): No such file or directory in /home/ikgeiid/public_html/system/prosesHome.php on line 59
+[28-Sep-2020 20:44:49 Asia/Jakarta] PHP Warning:  unlink(../img/home/188320731_logo2.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesHome.php on line 59
+[28-Sep-2020 21:49:26 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 21:49:26 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 21:52:11 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 21:52:11 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 21:54:02 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 21:54:02 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 21:56:03 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 21:56:03 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:00:02 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:00:02 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:02:14 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:02:14 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:03:04 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:03:04 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:05:57 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:05:57 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:07:02 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:07:02 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:08:33 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:08:33 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:13:10 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:13:10 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:16:37 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:16:37 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:19:09 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:19:09 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:22:27 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:22:27 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:25:41 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:25:41 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:26:40 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:26:40 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:28:06 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:28:06 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:29:45 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:29:45 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:31:59 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[28-Sep-2020 22:31:59 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[28-Sep-2020 22:53:25 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[28-Sep-2020 22:56:40 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 22:56:40 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 22:57:21 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[28-Sep-2020 23:00:04 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:00:04 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:00:32 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[28-Sep-2020 23:21:31 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:21:31 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:31:43 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:31:43 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:39:56 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:39:56 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:47:53 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:47:53 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:48:13 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[28-Sep-2020 23:51:46 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:51:46 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:52:25 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[28-Sep-2020 23:54:17 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:54:17 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:56:23 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:56:23 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:58:21 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:58:21 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[28-Sep-2020 23:59:53 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[28-Sep-2020 23:59:53 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[29-Sep-2020 00:03:27 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesMember.php on line 10
+[29-Sep-2020 00:03:27 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesMember.php on line 16
+[29-Sep-2020 00:05:56 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 00:06:20 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 11:02:52 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 12:44:23 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 12:44:54 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 12:55:32 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[29-Sep-2020 19:15:20 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesEvent.php on line 12
+[29-Sep-2020 19:15:20 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 18
+[29-Sep-2020 19:15:20 Asia/Jakarta] PHP Notice:  Undefined index: tgl in /home/ikgeiid/public_html/system/prosesEvent.php on line 24
+[29-Sep-2020 19:17:21 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesEvent.php on line 12
+[29-Sep-2020 19:17:21 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 18
+[29-Sep-2020 19:17:21 Asia/Jakarta] PHP Notice:  Undefined index: tgl in /home/ikgeiid/public_html/system/prosesEvent.php on line 24
+[29-Sep-2020 19:19:49 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesEvent.php on line 12
+[29-Sep-2020 19:19:49 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 18
+[29-Sep-2020 19:19:49 Asia/Jakarta] PHP Notice:  Undefined index: tgl in /home/ikgeiid/public_html/system/prosesEvent.php on line 21
+[29-Sep-2020 19:23:04 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesEvent.php on line 12
+[29-Sep-2020 19:23:04 Asia/Jakarta] PHP Warning:  unlink(../img/member/): Is a directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 18
+[29-Sep-2020 19:37:40 Asia/Jakarta] PHP Warning:  unlink(../img/event/&lt;p&gt;lorem&lt;/p&gt;
+): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 54
+[29-Sep-2020 20:04:39 Asia/Jakarta] PHP Warning:  unlink(../img/event/830688868_doctors-1.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 54
+[30-Sep-2020 03:28:49 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[30-Sep-2020 03:29:34 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[30-Sep-2020 03:32:57 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[30-Sep-2020 18:33:29 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[30-Sep-2020 18:33:29 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[30-Sep-2020 18:35:53 Asia/Jakarta] PHP Notice:  Undefined index: foto_lama in /home/ikgeiid/public_html/system/prosesPengurus.php on line 10
+[30-Sep-2020 18:35:53 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesPengurus.php on line 18
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ikgeiid/public_html/system/prosesEvent.php on line 59
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Notice:  Undefined variable: filesave in /home/ikgeiid/public_html/system/prosesEvent.php on line 60
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 60
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 62
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Notice:  Undefined variable: filesave in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:17:00 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  unlink(../img/event/1872020964_teeth.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 57
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ikgeiid/public_html/system/prosesEvent.php on line 60
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/teeth.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 61
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/teeth.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:25:35 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  unlink(../img/event/391857567_teeth.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 57
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Notice:  Array to string conversion in /home/ikgeiid/public_html/system/prosesEvent.php on line 60
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/teeth.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 61
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/teeth.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:26:30 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (5).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 61
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (5).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:27:58 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 61
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:29:31 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 61
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 64
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/ikgeiid/public_html/system/prosesEvent.php on line 86
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: file_type in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: file_type in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: file_type in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:34:51 Asia/Jakarta] PHP Notice:  Undefined variable: file_type in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (2).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 63
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 65
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 66
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 67
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (2).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 68
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 69
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 70
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 71
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 72
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Notice:  Undefined variable: error in /home/ikgeiid/public_html/system/prosesEvent.php on line 94
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Notice:  Undefined variable: file_name in /home/ikgeiid/public_html/system/prosesEvent.php on line 100
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpITlV4y): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 87
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:42:40 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 78
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 80
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 81
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 82
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 83
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 84
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 86
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 87
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Notice:  Undefined index: filename in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Notice:  Undefined variable: target_path in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 55
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 62
+[01-Oct-2020 04:47:40 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 62
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (4).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Notice:  Undefined variable: thumb in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Notice:  Undefined index: filename in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Notice:  Undefined variable: target_path in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:52:17 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (5).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Notice:  Undefined variable: thumb in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Notice:  Undefined index: filename in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Notice:  Undefined variable: target_path in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:55:01 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Notice:  Undefined variable: thumb in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Notice:  Undefined index: filename in /home/ikgeiid/public_html/system/prosesEvent.php on line 90
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Notice:  Undefined variable: target_path in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:55:53 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 80
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 82
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 83
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 84
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 86
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 87
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Notice:  Undefined variable: target_path in /home/ikgeiid/public_html/system/prosesEvent.php on line 91
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpWmiCgn): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:57:14 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 80
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 82
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 83
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 84
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 86
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 87
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 88
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 89
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpJaMfLG): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 04:59:37 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  getimagesize(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 79
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  Division by zero in /home/ikgeiid/public_html/system/prosesEvent.php on line 80
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, float given in /home/ikgeiid/public_html/system/prosesEvent.php on line 81
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagecreatefromjpeg(../img/event/download (3).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 82
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagecopyresized() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 83
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 84
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 85
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/ikgeiid/public_html/system/prosesEvent.php on line 86
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpk6EbOj): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:02:28 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:11:46 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 76
+[01-Oct-2020 05:11:46 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpqvUAoY): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 05:11:46 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:11:46 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:14:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:15:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:15:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:15:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:16:24 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 76
+[01-Oct-2020 05:17:02 Asia/Jakarta] PHP Warning:  unlink(../img/event/208504080_download (3).jpeg): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 74
+[01-Oct-2020 05:17:02 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 76
+[01-Oct-2020 05:19:42 Asia/Jakarta] PHP Warning:  unlink(../img/event/1518832669_download (2).jpeg): No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 74
+[01-Oct-2020 05:19:42 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 77
+[01-Oct-2020 05:19:42 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpweSmYB): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 05:19:42 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:19:42 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:21:20 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 78
+[01-Oct-2020 05:21:20 Asia/Jakarta] PHP Warning:  getimagesize(/tmp/phpvot8CZ): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 05:21:20 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:21:20 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 05:23:39 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 78
+[01-Oct-2020 15:56:38 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 78
+[01-Oct-2020 15:56:38 Asia/Jakarta] PHP Warning:  getimagesize(download.jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/prosesEvent.php on line 7
+[01-Oct-2020 15:56:38 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 15:56:38 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/prosesEvent.php on line 14
+[01-Oct-2020 21:05:30 Asia/Jakarta] PHP Notice:  Undefined variable: tempdir in /home/ikgeiid/public_html/system/prosesEvent.php on line 78
+[01-Oct-2020 22:04:52 Asia/Jakarta] PHP Notice:  Undefined variable: jabatan in /home/ikgeiid/public_html/conn/db_special_member.php on line 56
+[01-Oct-2020 22:06:43 Asia/Jakarta] PHP Notice:  Undefined variable: jabatan in /home/ikgeiid/public_html/conn/db_special_member.php on line 56
+[01-Oct-2020 22:08:16 Asia/Jakarta] PHP Notice:  Undefined variable: jabatan in /home/ikgeiid/public_html/conn/db_special_member.php on line 56
+[01-Oct-2020 22:12:01 Asia/Jakarta] PHP Notice:  Undefined variable: jabatan in /home/ikgeiid/public_html/conn/db_special_member.php on line 56
+[01-Oct-2020 22:19:49 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 62
+[01-Oct-2020 22:20:43 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 62
+[02-Oct-2020 23:54:34 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/): Is a directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[02-Oct-2020 23:57:00 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/2067931725_Icon Foto.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[02-Oct-2020 23:57:39 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/576698904_Icon Foto.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[02-Oct-2020 23:57:48 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1345562855_Icon Foto.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[02-Oct-2020 23:57:57 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1251615292_Icon Foto.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 14:35:56 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/344417643_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 15:14:56 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/579997706_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 15:16:36 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1757828593_IMG-20180314-WA0006.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 18:56:58 Asia/Jakarta] PHP Notice:  Undefined index: strucktur in /home/ikgeiid/public_html/system/prosesHome.php on line 41
+[03-Oct-2020 19:41:52 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1186049654_1758335472_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 19:42:30 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/69424963_pdgi-logo-FDDED04156-seeklogo.com.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 19:42:55 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/57084461_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 19:43:54 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/172105678_pdgi-logo-FDDED04156-seeklogo.com.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 19:44:06 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/33867653_PnPi1xj.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[03-Oct-2020 20:00:01 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1276246787_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 14:27:10 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/447968770_bird pink.jpeg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:14:08 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/716540612_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:21:33 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/75603157_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:26:07 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/572203089_sherly indratno.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:39:28 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/2093359652_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:44:44 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1072649668_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:51:19 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/766916541_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 15:54:50 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1356923050_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:02:35 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1403749244_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:08:48 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/130784118_iwan dewanto.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:09:24 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/421420497_husni tarigan.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:12:54 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1519764526_yeanne roseno.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:13:27 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/935180129_husni tarigan.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:23:22 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1061576042_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:32:36 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1172553595_astrid.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 16:37:55 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/445273840_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 20:11:26 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1144757650_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 20:28:17 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/896593467_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 20:36:06 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1076023552_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 20:40:10 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/916398125_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 20:41:36 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/959473764_yuda.jpg): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 21:53:18 Asia/Jakarta] PHP Warning:  unlink(../img/pengurus/1808486615_LogoIKGEI.png): No such file or directory in /home/ikgeiid/public_html/system/prosesSpecialMember.php on line 83
+[04-Oct-2020 22:18:43 Asia/Jakarta] PHP Notice:  Undefined index: tgldaftar in /home/ikgeiid/public_html/system/prosesMember.php on line 64
+[05-Oct-2020 01:56:52 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:56:52 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:56:52 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn/db_event.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:56:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'fevent' not found in /home/ikgeiid/public_html/system/oprator/prosesEvent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 4
+[05-Oct-2020 01:57:25 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:25 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn/db_event.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'fevent' not found in /home/ikgeiid/public_html/system/oprator/prosesEvent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 4
+[05-Oct-2020 01:57:37 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:37 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:37 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn/db_event.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'fevent' not found in /home/ikgeiid/public_html/system/oprator/prosesEvent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 4
+[05-Oct-2020 01:57:38 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:38 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn/db_event.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'fevent' not found in /home/ikgeiid/public_html/system/oprator/prosesEvent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 4
+[05-Oct-2020 01:57:45 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:45 Asia/Jakarta] PHP Warning:  include(../conn/db_event.php): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../conn/db_event.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 3
+[05-Oct-2020 01:57:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'fevent' not found in /home/ikgeiid/public_html/system/oprator/prosesEvent.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 4
+[05-Oct-2020 02:36:31 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:37:09 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:37:09 Asia/Jakarta] PHP Warning:  getimagesize(doctors-456.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 7
+[05-Oct-2020 02:37:09 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:37:09 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:37:42 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:37:42 Asia/Jakarta] PHP Warning:  getimagesize(doctors-456.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 7
+[05-Oct-2020 02:37:42 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:37:42 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:38:36 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:38:36 Asia/Jakarta] PHP Warning:  getimagesize(doctors-456.jpg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 7
+[05-Oct-2020 02:38:36 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:38:36 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:39:02 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:39:02 Asia/Jakarta] PHP Warning:  getimagesize(998746167_download (2).jpeg): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 7
+[05-Oct-2020 02:39:02 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:39:02 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:48:49 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 26
+[05-Oct-2020 02:48:49 Asia/Jakarta] PHP Warning:  getimagesize(article.png): failed to open stream: No such file or directory in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 7
+[05-Oct-2020 02:48:49 Asia/Jakarta] PHP Notice:  Undefined variable: image in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14
+[05-Oct-2020 02:48:49 Asia/Jakarta] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/ikgeiid/public_html/system/oprator/prosesEvent.php on line 14

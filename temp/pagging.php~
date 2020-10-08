@@ -1,0 +1,26 @@
+ <?php include '../conn/koneksi.php';
+        
+        $batas = 30;
+        $halaman = isset($_GET['halaman'])?(int)$_GET['halaman'] : 1;
+        $halaman_awal = ($halaman>1) ? ($halaman * $batas) - $batas : 0;  
+ 
+        $previous = $halaman - 1;
+        $next = $halaman + 1;
+        
+        #$cari = $_POST['search'];
+        $jumlah_data = $db->row();
+        var_dump($jumlah_data);
+        $total_halaman = ceil($jumlah_data / $batas);
+ 
+        
+        if(isset($_GET['cari'])){
+          $cari = $_GET['cari'];
+          $data1 = mysqli_query($koneksi,"SELECT * FROM member WHERE status_keanggotaan = 'General member' and nama like '%".$cari."%' or domisili like '%".$cari."%' limit $halaman_awal, $batas");       
+        }else{
+          $data1 = mysqli_query($koneksi,"SELECT * FROM member WHERE status_keanggotaan = 'General member' limit $halaman_awal, $batas");   
+        }
+
+        $nomor = $halaman_awal+1;
+        while($d = mysqli_fetch_array($data1)){
+
+?>
